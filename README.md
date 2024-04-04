@@ -3,7 +3,6 @@
 <br>
 
 ## 🦁 팀원
-## Team
 |<img src="https://avatars.githubusercontent.com/u/97500865?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/40623433?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/65270723?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |운영진<br/>**김민주**<br/>[@minzzn](https://github.com/minzzn)|12기<br/>**최용원**<br/>[@ChoiYongWon](https://github.com/ChoiYongWon)|12기<br/>**조태석**<br/>[@C7266](https://github.com/C7266)|
